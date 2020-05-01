@@ -1,0 +1,30 @@
+<fields>
+  <basic>
+    <field id="reg_cod" name="REG_COD" />
+    <field id="use_cod" name="USE_COD" />
+    <field id="dev_cod" name="DEV_COD" />
+    <field id="eqp_type" name="EQP_TYPE" />
+    <field id="eqp_sort" name="EQP_SORT" />
+    <field id="eqp_vart" name="EQP_VART" />
+    <field id="use_unt" name="USE_UNT" />
+    <field id="eqp_mod" name="EQP_MOD" />
+    <field id="fac_cod" name="FAC_COD" />
+    <field id="lift_load" name="Lift_Load" />
+    <field id="rate_speed" name="Rate_Speed" />
+    <field id="car_quality" name="Car_Quality" />
+    <field id="berth_num" name="Berth_Num" />
+    <field id="floor_num" name="Floor_Num" />
+  </basic>
+  <optional>
+    <field id="crane_status" name="Crane_Status" enabled="false" />
+    <field id="car_carrier_status" name="Car_carrier_Status" enabled="false" />
+    <field id="limit_switch_status" name="Limit_Switch_Status" enabled="false" />
+    <field id="overrun_switch_status" name="Overrun_Switch_Status" enabled="false" />
+    <field id="size_switch_status" name="Size_Switch_Status" enabled="false" />
+    <field id="strayed_status" name="Strayed_Status" enabled="false" />
+    <field id="interlock_status" name="Interlock_Status" enabled="false" />
+    <field id="falling_status" name="Falling_Status" enabled="false" />
+    <field id="single_running_time" name="Single_Running_Time" enabled="false" />
+    <field id="total_running_time" name="Total_Running_Time" enabled="false" />
+  </optional>
+</fields>

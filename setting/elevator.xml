@@ -1,0 +1,47 @@
+<fields>
+  <basic>
+    <field id="reg_cod" name="REG_COD" />
+    <field id="use_cod" name="USE_COD" />
+    <field id="code_lift" name="Code_Lift" />
+    <field id="eqp_vart" name="EQP_VART" />
+    <field id="eqp_mod" name="EQP_MOD" />
+    <field id="fac_cod" name="FAC_COD" />
+    <field id="manufacturer" name="Manufacturer" />
+    <field id="equipment_date" name="Equipment_Date" />
+    <field id="installation_unit" name="Installation_Unit" />
+    <field id="installation_date" name="Installation_Date" />
+    <field id="maintenance_unit" name="Maintenance_Unit" />
+    <field id="use_unt" name="USE_UNT" />
+    <field id="custom_number" name="Custom_Number" />
+    <field id="emergency_number" name="Emergency_Number" />
+    <field id="total_floor" name="Total_Floor" />
+    <field id="total_station" name="Total_Station" />
+    <field id="total_door" name="Total_Door" />
+    <field id="rated_speed" name="Rated_Speed" />
+    <field id="rated_load" name="Rated_Load" />
+    <field id="fault_id" name="Fault_ID" />
+    <field id="order_number" name="Order_Number" />
+    <field id="fault_type" name="Fault_Type" />
+    <field id="fault_timestamp" name="Fault_Timestamp" />
+    <field id="deal_status" name="Deal_Status" />
+    <field id="deal_respond_time" name="Deal_Respond_Time" />
+    <field id="deal_arrive_time" name="Deal_Arrive_Time" />
+    <field id="deal_end_time" name="Deal_End_Time" />
+    <field id="car_status" name="Car_Status" />
+    <field id="car_direction" name="Car_Direction" />
+    <field id="door_zone" name="Door_Zone" />
+    <field id="car_position" name="Car_Position" />
+    <field id="door_status" name="Door_Status" />
+    <field id="passenger_status" name="Passenger_Status" />
+    <field id="service_mode" name="Service_Mode" />
+    <field id="stats_timestamp" name="Stats_Timestamp" />
+    <field id="total_running_time" name="Total_Running_Time" />
+    <field id="present_counter_value" name="Present_Counter_Value" />
+  </basic>
+  <optional>
+    <field id="up_limit" name="Up_Limit" enabled="false" />
+    <field id="down_limit" name="Down_Limit" enabled="false" />
+    <field id="deal_node" name="Deal_Node" enabled="false" />
+    <field id="power_status" name="Power_Status" enabled="false" />
+  </optional>
+</fields>

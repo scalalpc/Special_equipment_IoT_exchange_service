@@ -1,0 +1,28 @@
+<fields>
+  <basic>
+    <field id="reg_cod" name="REG_COD" />
+    <field id="use_cod" name="USE_COD" />
+    <field id="use_unt" name="USE_UNT" />
+    <field id="eqp_mod" name="EQP_MOD" />
+    <field id="eqp_type" name="EQP_TYPE" />
+    <field id="eqp_sort" name="EQP_SORT" />
+    <field id="eqp_vart" name="EQP_VART" />
+    <field id="manufacturer" name="Manufacturer" />
+    <field id="fac_cod" name="FAC_COD" />
+    <field id="gas_volume" name="Gas_Volume" />
+    <field id="filling_medium" name="Fill_Medium" />
+    <field id="nominal_working_pressure" name="Nominal_Working_Pressure" />
+    <field id="eqp_age" name="EQP_Age" />
+  </basic>
+  <optional>
+    <field id="gas_station" name="Gas_Station" enabled="false" />
+    <field id="gasworder_id" name="GasWorker_ID" enabled="false" />
+    <field id="gasgun_id" name="GasGun_ID" enabled="false" />
+    <field id="gasfill_date" name="GasFill_Date" enabled="false" />
+    <field id="fillstart_time" name="FillStart_Time" enabled="false" />
+    <field id="gasfill_unit" name="GasFill_Unit" enabled="false" />
+    <field id="gasfill_volume" name="GasFill_Volume" enabled="false" />
+    <field id="gas_density" name="Gas_Density" enabled="false" />
+    <field id="gas_pressure" name="Gas_Pressure" enabled="false" />
+  </optional>
+</fields>

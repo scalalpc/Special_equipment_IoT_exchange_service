@@ -1,0 +1,37 @@
+<fields>
+  <basic>
+    <field id="reg_cod" name="REG_COD" />
+    <field id="use_cod" name="USE_COD" />
+    <field id="fac_cod" name="FAC_COD" />
+    <field id="qc_cod" name="QC_COD" />
+    <field id="ukey_cod" name="Ukey_COD" />
+    <field id="manufacturer" name="Manufacturer" />
+    <field id="eqp_mod" name="EQP_Mod" />
+    <field id="eqp_type" name="EQP_TYPE" />
+    <field id="eqp_sort" name="EQP_SORT" />
+    <field id="eqp_vart" name="EQP_VART" />
+    <field id="eqp_age" name="EQP_Age" />
+    <field id="eqp_volume" name="EQP_Volume" />
+    <field id="eqp_pressure" name="EQP_Pressure" />
+    <field id="eqp_temp" name="EQP_TEMP" />
+    <field id="eqp_date" name="EQP_Date" />
+    <field id="filling_medium" name="Fill_Medium" />
+    <field id="eqp_user" name="EQP_User" />
+    <field id="license_number" name="License_Number" />
+    <field id="use_date" name="Use_Date" />
+  </basic>
+  <optional>
+    <field id="filling_company" name="Fill_Company" enabled="false" />
+    <field id="filling_id" name="Fill_ID" enabled="false" />
+    <field id="fill_date" name="Fill_Date" enabled="false" />
+    <field id="fill_time" name="Fill_Time" enabled="false" />
+    <field id="filling_unit" name="Fill_Unit" enabled="false" />
+    <field id="filling_volume" name="Fill_Volume" enabled="false" />
+    <field id="eqp_longitude" name="EQP_Longitude" enabled="false" />
+    <field id="eqp_latitude" name="EQP_Latitude" enabled="false" />
+    <field id="liquid_level" name="Liquid_level" enabled="false" />
+    <field id="environment_temperature" name="Environment_Temperature" enabled="false" />
+    <field id="eqp_temperature" name="EQP_temperature" enabled="false" />
+    <field id="leakage" name="Leakage" enabled="false" />
+  </optional>
+</fields>

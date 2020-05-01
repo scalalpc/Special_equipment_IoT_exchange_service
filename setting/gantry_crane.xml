@@ -1,0 +1,43 @@
+<fields>
+  <basic>
+    <field id="reg_cod" name="REG_COD" />
+    <field id="use_cod" name="USE_COD" />
+    <field id="dev_cod" name="DEV_COD" />
+    <field id="eqp_type" name="EQP_TYPE" />
+    <field id="eqp_sort" name="EQP_SORT" />
+    <field id="eqp_vart" name="EQP_VART" />
+    <field id="use_unt" name="USE_UNT" />
+    <field id="eqp_mod" name="EQP_MOD" />
+    <field id="fac_cod" name="FAC_COD" />
+    <field id="lift_load" name="Lift_Load" />
+    <field id="lift_height" name="Lift_Height" />
+    <field id="lift_speed" name="Lift_Speed" />
+    <field id="rate_amplitude" name="Rate_Amplitude" />
+    <field id="rate_loadmoment" name="Rate_Loadmoment" />
+  </basic>
+  <optional>
+    <field id="crane_status" name="Crane_Status" enabled="false" />
+    <field id="weight_value" name="Weight_Value" enabled="false" />
+    <field id="overloading_status" name="Overloading_Status" enabled="false" />
+    <field id="lifting_moment_value" name="Lifting_Moment_Value" enabled="false" />
+    <field id="lifting_moment_status" name="Lifting_Moment_Status" enabled="false" />
+    <field id="heightlimiter_status" name="Heightlimiter_Status" enabled="false" />
+    <field id="amplitude_value" name="Amplitude_Value" enabled="false" />
+    <field id="amplitude_status" name="Amplitude_Status" enabled="false" />
+    <field id="rotary_status" name="Rotary_Status" enabled="false" />
+    <field id="single_running_time" name="Single_Running_Time" enabled="false" />
+    <field id="total_running_time" name="Total_Running_Time" enabled="false" />
+    <field id="present_counter_valu" name="Present_Counter_Valu" enabled="false" />
+    <field id="gantrylimiter_status" name="Gantrylimiter_Status" enabled="false" />
+    <field id="doorinterlock_status" name="Doorinterlock_Status" enabled="false" />
+    <field id="m_interlock_status" name="M_interlock_Status" enabled="false" />
+    <field id="windresistant_status" name="Windresistant_Status" enabled="false" />
+    <field id="anemometer_status" name="Anemometer_Status" enabled="false" />
+    <field id="safedistance_status" name="Safedistance_Status" enabled="false" />
+    <field id="anticollision_status" name="Anticollision_Status" enabled="false" />
+    <field id="overspeed_status" name="Overspeed_Status" enabled="false" />
+    <field id="cablelimit_status" name="Cablelimit_Status" enabled="false" />
+    <field id="brake_status" name="Brake_Status" enabled="false" />
+    <field id="luf_brake_status" name="Luf_Brake_Status" enabled="false" />
+  </optional>
+</fields>

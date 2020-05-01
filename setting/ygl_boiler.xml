@@ -1,0 +1,44 @@
+<fields>
+  <basic>
+    <field id="reg_cod" name="REG_COD" />
+    <field id="use_cod" name="USE_COD" />
+    <field id="eqp_type" name="EQP_TYPE" />
+    <field id="eqp_sort" name="EQP_SORT" />
+    <field id="eqp_vart" name="EQP_VART" />
+    <field id="use_unt" name="USE_UNT" />
+    <field id="eqp_mod" name="EQP_MOD" />
+    <field id="fac_cod" name="FAC_COD" />
+    <field id="boiler_ratcon" name="Boiler_Ratcon" />
+  </basic>
+  <optional>
+    <field id="exhaust_temp" name="Exhaust_temp" enabled="false" />
+    <field id="exhaust_temp_front" name="Front_Exhaust_temp" enabled="false" />
+    <field id="exhaust_temp_back" name="Back_Exhaust_temp" enabled="false" />
+    <field id="comprehensive_alarm" name="Comprehensive_Alarm" enabled="false" />
+    <field id="ff_alarm" name="FF_Alarm" enabled="false" />
+    <field id="operation_singal" name="Operation_Signal" enabled="false" />
+    <field id="ignition_signal" name="Ignition_Signal" enabled="false" />
+    <field id="gf_signal" name="GF_Signal" enabled="false" />
+    <field id="yf_signal" name="YF_Signal" enabled="false" />
+    <field id="ambient_temp" name="Ambient_Temp" enabled="false" />
+    <field id="blowing_rate" name="Blowing_Rate" enabled="false" />
+    <field id="fuel_pressure" name="Fuel_Pressure" enabled="false" />
+    <field id="fuel_type" name="Fuel_Type" enabled="false" />
+    <field id="fuel_flow" name="Fuel_Flow" enabled="false" />
+    <field id="fuel_heat_value" name="Fuel_Heat_Value" enabled="false" />
+    <field id="furnace_temp" name="Furnace_Temp" enabled="false" />
+    <field id="furnace_pressure" name="Furnace_Pressure" enabled="false" />
+    <field id="excess_air_coefficient" name="Excess_Air_Coefficient" enabled="false" />
+    <field id="boiler_q2" name="Boiler_Q2" enabled="false" />
+    <field id="boiler_q3" name="Boiler_Q3" enabled="false" />
+    <field id="boiler_q4" name="Boiler_Q4" enabled="false" />
+    <field id="boiler_q5" name="Boiler_Q5" enabled="false" />
+    <field id="boiler_q6" name="Boiler_Q6" enabled="false" />
+    <field id="boiler_efficiency" name="Boiler_Efficiency" enabled="false" />
+    <field id="export_temp" name="Export_Temp" enabled="false" />
+    <field id="import_temp" name="Import_Temp" enabled="false" />
+    <field id="export_pressure" name="Export_Pressure" enabled="false" />
+    <field id="import_pressure" name="Import_Pressure" enabled="false" />
+    <field id="export_flow" name="Export_Flow" enabled="false" />
+  </optional>
+</fields>
